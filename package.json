@@ -8,6 +8,8 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
     "stripe": "^6.7.0"
   }
 }
