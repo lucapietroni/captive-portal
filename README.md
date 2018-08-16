@@ -1,2 +1,2 @@
 # captive-portal
-Node.JS captive page with Stripe
+Node.JS captive portal page and billing process with Stripe
