@@ -6,5 +6,8 @@
   "repository": "git@github.com:lucapietroni/captive-portal.git",
   "author": "lucapietroni",
   "license": "UNLICENSED",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "stripe": "^6.7.0"
+  }
 }
